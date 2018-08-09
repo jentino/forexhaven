@@ -3,6 +3,6 @@
   "description": "a really cool forex app",
   "version": "1.0.0",
   "engines": {
-    "node": "8.11.x"
+    "node": "8.x.x"
   }
 }
