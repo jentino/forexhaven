@@ -1,8 +1,13 @@
 {
-  "name": "forexhaven",
-  "description": "a really cool forex app",
-  "version": "1.0.0",
-  "engines": {
-    "node": "8.x.x"
+  "name": "mzansiforexacademy",
+  "version": "0.0.1",
+  "description": "mzansiforexacademy website",
+  "main": "server.js",
+  "repository": "",
+  "author": "Jenty <jentino@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
   }
 }
